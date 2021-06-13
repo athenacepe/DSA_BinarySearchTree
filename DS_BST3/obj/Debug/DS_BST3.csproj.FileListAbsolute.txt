@@ -1,0 +1,21 @@
+C:\Users\athen\Desktop\IT Y2 S2\Data Structures and Algorithms\Assignment 1\DS_BST3\DS_BST3\bin\Debug\DS_BST3.exe.config
+C:\Users\athen\Desktop\IT Y2 S2\Data Structures and Algorithms\Assignment 1\DS_BST3\DS_BST3\bin\Debug\DS_BST3.exe
+C:\Users\athen\Desktop\IT Y2 S2\Data Structures and Algorithms\Assignment 1\DS_BST3\DS_BST3\bin\Debug\DS_BST3.pdb
+C:\Users\athen\Desktop\IT Y2 S2\Data Structures and Algorithms\Assignment 1\DS_BST3\DS_BST3\obj\Debug\DS_BST3.csprojAssemblyReference.cache
+C:\Users\athen\Desktop\IT Y2 S2\Data Structures and Algorithms\Assignment 1\DS_BST3\DS_BST3\obj\Debug\DS_BST3.csproj.CoreCompileInputs.cache
+C:\Users\athen\Desktop\IT Y2 S2\Data Structures and Algorithms\Assignment 1\DS_BST3\DS_BST3\obj\Debug\DS_BST3.exe
+C:\Users\athen\Desktop\IT Y2 S2\Data Structures and Algorithms\Assignment 1\DS_BST3\DS_BST3\obj\Debug\DS_BST3.pdb
+C:\Users\athen\Desktop\IT Y2 S2\Data Structures and Algorithms\Assignment 1\Athena_Cepe_BST_Task3\DS_BST3\bin\Debug\DS_BST3.exe.config
+C:\Users\athen\Desktop\IT Y2 S2\Data Structures and Algorithms\Assignment 1\Athena_Cepe_BST_Task3\DS_BST3\bin\Debug\DS_BST3.exe
+C:\Users\athen\Desktop\IT Y2 S2\Data Structures and Algorithms\Assignment 1\Athena_Cepe_BST_Task3\DS_BST3\bin\Debug\DS_BST3.pdb
+C:\Users\athen\Desktop\IT Y2 S2\Data Structures and Algorithms\Assignment 1\Athena_Cepe_BST_Task3\DS_BST3\obj\Debug\DS_BST3.csprojAssemblyReference.cache
+C:\Users\athen\Desktop\IT Y2 S2\Data Structures and Algorithms\Assignment 1\Athena_Cepe_BST_Task3\DS_BST3\obj\Debug\DS_BST3.csproj.CoreCompileInputs.cache
+C:\Users\athen\Desktop\IT Y2 S2\Data Structures and Algorithms\Assignment 1\Athena_Cepe_BST_Task3\DS_BST3\obj\Debug\DS_BST3.exe
+C:\Users\athen\Desktop\IT Y2 S2\Data Structures and Algorithms\Assignment 1\Athena_Cepe_BST_Task3\DS_BST3\obj\Debug\DS_BST3.pdb
+C:\Users\athen\Desktop\Athena_Cepe_18470716\Athena_Cepe_BST_Task3\DS_BST3\bin\Debug\DS_BST3.exe.config
+C:\Users\athen\Desktop\Athena_Cepe_18470716\Athena_Cepe_BST_Task3\DS_BST3\bin\Debug\DS_BST3.exe
+C:\Users\athen\Desktop\Athena_Cepe_18470716\Athena_Cepe_BST_Task3\DS_BST3\bin\Debug\DS_BST3.pdb
+C:\Users\athen\Desktop\Athena_Cepe_18470716\Athena_Cepe_BST_Task3\DS_BST3\obj\Debug\DS_BST3.csprojAssemblyReference.cache
+C:\Users\athen\Desktop\Athena_Cepe_18470716\Athena_Cepe_BST_Task3\DS_BST3\obj\Debug\DS_BST3.csproj.CoreCompileInputs.cache
+C:\Users\athen\Desktop\Athena_Cepe_18470716\Athena_Cepe_BST_Task3\DS_BST3\obj\Debug\DS_BST3.exe
+C:\Users\athen\Desktop\Athena_Cepe_18470716\Athena_Cepe_BST_Task3\DS_BST3\obj\Debug\DS_BST3.pdb
